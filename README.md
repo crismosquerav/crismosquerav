@@ -1,4 +1,18 @@
-## Hi there 👋
+## Professional Summary 
+Digital marketing consultant with 5+ years of professional experience. Proficient in data-driven strategies. Reporting to C-Level and managing teams of >40 people. 
+
+##Skills & Tools
+- Project Managment
+- Leadership
+- SQL
+- Python
+
+##Contact 
+- [LinkedIn](https://www.linkedin.com/in/crismosquerav/))
+- [Email](mailto:cris.mosquera.v@gmail.com)
+
+
+
 
 <!--
 **crismosquerav/crismosquerav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
