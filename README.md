@@ -14,7 +14,6 @@ Digital marketing consultant with 5+ years of professional experience. Proficien
 
 ## Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/crismosquerav/))
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cris.mosquera.v@gmail.com)
 
 
