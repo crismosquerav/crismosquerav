@@ -1,13 +1,13 @@
 ## Professional Summary 
 Digital marketing consultant with 5+ years of professional experience. Proficient in data-driven strategies. Reporting to C-Level and managing teams of >40 people. 
 
-##Skills & Tools
+## Skills & Tools
 - Project Managment
 - Leadership
 - SQL
 - Python
 
-##Contact 
+## Contact 
 - [LinkedIn](https://www.linkedin.com/in/crismosquerav/))
 - [Email](mailto:cris.mosquera.v@gmail.com)
 
