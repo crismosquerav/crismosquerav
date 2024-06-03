@@ -1,3 +1,5 @@
+MSc in Business Analytics & Big Data IE University | Digital Marketing Specialist | Data-Driven Strategies
+
 ## About me
 Digital marketing consultant with 5+ years of professional experience. Proficient in data-driven strategies. Reporting to C-Level and managing teams of >40 people. 
 
