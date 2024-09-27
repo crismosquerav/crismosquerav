@@ -1,12 +1,13 @@
 MSc in Business Analytics & Big Data IE University | Digital Marketing Specialist | Data-Driven Strategies
 
 ### About me
-Digital marketing consultant with 5+ years of professional experience. Proficient in data-driven strategies. Reporting to C-Level and managing teams of >40 people. 
+Digital marketing consultant with 5+ years of professional experience. Proficient in data-driven strategies. Reporting to C-Level and managing teams of >40 people
 
 
 ### Skills
 - Project Managment
 - Leadership
+
 
 
 ### Languages 
@@ -19,17 +20,3 @@ Digital marketing consultant with 5+ years of professional experience. Proficien
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cris.mosquera.v@gmail.com)
 
 
-<!--
-**crismosquerav/crismosquerav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
